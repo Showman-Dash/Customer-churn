@@ -1,5 +1,5 @@
-streamlit
-pandas
-numpy
-tensorflow
-keras
+keras~=2.9.0
+numpy~=1.23.2
+pandas~=1.4.3
+streamlit~=1.11.1
+tensorflow~=2.9.1
