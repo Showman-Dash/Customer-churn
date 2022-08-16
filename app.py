@@ -234,4 +234,4 @@ if st.button('Click'):
 
     elif (churn_pred == 0):
         st.write('Amazing!! Our work environment is perfectly fine for you ',name,'!')
-        st.write('We hope you will have a great time with us ahead :)')
+        st.write('We hope you will have a great time with us ahead :))')
